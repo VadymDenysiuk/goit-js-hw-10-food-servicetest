@@ -1,2 +1,3 @@
-/* import menu from './menu.json'
- */
+import template from './Js/template.js'
+import theme from './Js/theme.js'
+
